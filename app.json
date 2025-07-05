@@ -1,5 +1,5 @@
 {
-  "name": "Rias Gremory X",
+  "name": "⸸ Dark Omeh 𓂀 Bot",
   "description": "WhatsApp Bot using Node.js and Baileys",
   "repository": "https://github.com/Toxic1239/Queen-RiasV3_",
   "keywords": ["whatsapp", "bot", "baileys", "nodejs"],
@@ -25,7 +25,7 @@
     },
     "BOT_NAME": {
       "description": "Name of the bot.",
-      "value": "Rias Gremory X"
+      "value": "⸸ Dark Omeh 𓂀 Bot"
     },
     "SESSION_ID": {
       "description": "Base64 session ID for WhatsApp authentication.",
